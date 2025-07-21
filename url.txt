@@ -1,0 +1,5 @@
+## Dataset Link:
+Original dataset from [Shop Direct Sale Data For Research](https://www.kaggle.com/datasets/kapoorprakhar/shop-direct-sale-e-commerce-dataset).
+
+## Deployment Link:
+Hugging Face URL: [Hugging](https://huggingface.co/spaces/LuthfiNadyan/P1M2_Luthfi_Nadyan_Deployment)
