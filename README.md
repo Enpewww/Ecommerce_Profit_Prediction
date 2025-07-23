@@ -49,14 +49,15 @@ Dataset 4115 rows and 16 columns.
 Using 5 regression algorithms consisting KNN Regressor, Decision Tree Regressor, Random Forest Regressor, Gradient Boosting Regressor, and SVR Regressor. The results was finds that Random Forest Regressor is the best model for prediction.
 
 ## Stacks
-- pandas: using packages for dataframe manipulation and analysis. 
-- numpy: used for mathematical and array function.
-- matplotlib: base of visualization library for seaborn.
-- seaborn: used for creating charts, stats plots, and other statistics visualization.
-- scipy: for all statistics build in Pandas.
-- pickle: Saving and Loading the model.
-- sklearn: Main libraries for building and evaluated the machine learning models.
-- statsmodel: Main libraries for statistics testing.
+- `pandas`: using packages for dataframe manipulation and analysis. 
+- `numpy`: used for mathematical and array function.
+- `matplotlib`: base of visualization library for seaborn.
+- `seaborn`: used for creating charts, stats plots, and other statistics visualization.
+- `scipy`: for all statistics build in Pandas.
+- `pickle`: Saving and Loading the model.
+- `scikit-klearn`: Main libraries for building, evaluated, and creating transformer for feature creation (*feature engineering*) that implement in machine learning models in this project.
+- `statsmodel`: Main libraries for statistics testing.
+- `category_encoder`: Libraries outside scikit-learn to implemented target encoder and frequency encoder.
 
 ## Reference
 Link Deployment Hugging Face: [Deployment: E-Commerce Profitability Prediction](https://huggingface.co/spaces/LuthfiNadyan/P1M2_Luthfi_Nadyan_Deployment)
