@@ -1,4 +1,4 @@
-# Building Predictive Regression Algorithms to Predict Profitability of E-Commerce Segments
+# Building Predictive Regression Model to Predict Profitability of E-Commerce Segments
 
 ## Repository Outline
 1. *Shop Direct Sale Data For Research (1).csv* - Original dataset from [Shop Direct Sale Data For Research](https://www.kaggle.com/datasets/kapoorprakhar/shop-direct-sale-e-commerce-dataset).
